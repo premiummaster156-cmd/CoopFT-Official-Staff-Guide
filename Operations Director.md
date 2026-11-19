@@ -1,4 +1,4 @@
-# Operations Director
+# Staff Manager
 
 **Team:** Low Rank  
 **Primary focus:** Manage day-to-day staff operations
