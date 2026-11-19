@@ -1,4 +1,4 @@
-# Sentinel
+# Support Lead
 
 **Team:** High Rank  
 **Primary focus:** Team health and escalated support
