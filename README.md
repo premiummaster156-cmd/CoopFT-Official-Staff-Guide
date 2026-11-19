@@ -12,16 +12,16 @@ Official role-specific handbook for the CoopFT staff team.
 
 ### Low Rank
 - [Head Moderator](./Head%20Moderator.md)
-- [Senate](./Senate.md)
-- [Supreme Council](./Supreme%20Council.md)
-- [Staff Supervisor](./Staff%20Supervisor.md)
+- [Strategic Council](./Strategic Council.md)
+- [Executive Council](./Supreme%20Council.md)
+- [Operations Director](./Staff%20Supervisor.md)
 
 ### High Rank
-- [High Rank Supervisor](./High%20Rank%20Supervisor.md)
-- [Apex](./Apex.md)
+- [High Chancellor](./High%20Rank%20Supervisor.md)
+- [Vanguard](./Vanguard.md)
 - [Right Wing](./Right%20Wing.md)
 - [Left Wing](./Left%20Wing.md)
-- [Halo](./Halo.md)
+- [Sentinel](./Sentinel.md)
 - [Overseer](./Overseer.md)
 
 ## Shared standards
