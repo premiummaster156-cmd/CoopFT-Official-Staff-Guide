@@ -1,10 +1,10 @@
-# Executive Council
+# Senior Council
 
 **Team:** Low Rank  
 **Primary focus:** Senior oversight and staff development
 
 ## Responsibilities
-Oversee team health, advise on complex staff matters, support Head Moderator and Staff Supervisor, and maintain consistent standards.
+Oversee team health, advise on complex staff matters, support Head Moderator and Staff Manager, and maintain consistent standards.
 
 ## How to work
 Review escalations, assess processes, identify training needs, and coordinate support for teams.
