@@ -1,4 +1,4 @@
-# Strategic Council
+# Team Council
 
 **Team:** Low Rank  
 **Primary focus:** Staff coordination and operational review
