@@ -1,6 +1,6 @@
 # Council
 
-**Team:** Mod Roles  
+**Team:** Low Rank  
 **Primary focus:** Moderation coordination and policy support
 
 ## Responsibilities
