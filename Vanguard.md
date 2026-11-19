@@ -1,4 +1,4 @@
-# Project Lead
+# Team Lead
 
 **Team:** High Rank  
 **Primary focus:** Cross-team projects and operational improvement
