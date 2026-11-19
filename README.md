@@ -13,15 +13,15 @@ Official role-specific handbook for the CoopFT staff team.
 ### Low Rank
 - [Council](./Council.md)
 - [Strategic Council](./Strategic Council.md)
-- [Executive Council](./Executive%20Council.md)
-- [Operations Director](./Operations%20Director.md)
+- [Senior Council](./Executive%20Council.md)
+- [Staff Manager](./Operations%20Director.md)
 
 ### High Rank
-- [High Chancellor](./High%20Chancellor.md)
-- [Vanguard](./Vanguard.md)
+- [High Rank Lead](./High%20Chancellor.md)
+- [Project Lead](./Vanguard.md)
 - [Right Wing](./Right%20Wing.md)
 - [Left Wing](./Left%20Wing.md)
-- [Sentinel](./Sentinel.md)
+- [Support Lead](./Sentinel.md)
 - [Overseer](./Overseer.md)
 
 ## Shared standards
