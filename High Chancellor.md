@@ -1,10 +1,10 @@
-# High Chancellor
+# High Rank Lead
 
 **Team:** High Rank  
 **Primary focus:** Lead and coordinate Low Rank leadership
 
 ## Responsibilities
-Oversee Low Rank teams and their leads, support Head Moderator and Staff Supervisor, review performance trends, and coordinate staff-wide priorities.
+Oversee Low Rank teams and their leads, support Head Moderator and Staff Manager, review performance trends, and coordinate staff-wide priorities.
 
 ## How to work
 Set direction, review team health, resolve cross-team blockers, coach Low Rank leaders, and handle senior escalations.
