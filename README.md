@@ -13,11 +13,11 @@ Official role-specific handbook for the CoopFT staff team.
 ### Low Rank
 - [Head Moderator](./Head%20Moderator.md)
 - [Strategic Council](./Strategic Council.md)
-- [Executive Council](./Supreme%20Council.md)
-- [Operations Director](./Staff%20Supervisor.md)
+- [Executive Council](./Executive%20Council.md)
+- [Operations Director](./Operations%20Director.md)
 
 ### High Rank
-- [High Chancellor](./High%20Rank%20Supervisor.md)
+- [High Chancellor](./High%20Chancellor.md)
 - [Vanguard](./Vanguard.md)
 - [Right Wing](./Right%20Wing.md)
 - [Left Wing](./Left%20Wing.md)
