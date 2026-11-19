@@ -1,6 +1,6 @@
 # Head Moderator
 
-**Team:** Low Rank  
+**Team:** Mod Roles  
 **Primary focus:** Lead the moderation function
 
 ## Responsibilities
