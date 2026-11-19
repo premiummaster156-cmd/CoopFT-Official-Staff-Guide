@@ -18,7 +18,7 @@ Official role-specific handbook for the CoopFT staff team.
 
 ### High Rank
 - [High Rank Lead](./High%20Chancellor.md)
-- [Project Lead](./Vanguard.md)
+- [Team Lead](./Vanguard.md)
 - [Right Wing](./Right%20Wing.md)
 - [Left Wing](./Left%20Wing.md)
 - [Support Lead](./Sentinel.md)
