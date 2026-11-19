@@ -8,10 +8,10 @@ Official role-specific handbook for the CoopFT staff team.
 - [Junior Moderator](./Junior%20Moderator.md)
 - [Moderator](./Moderator.md)
 - [Senior Moderator](./Senior%20Moderator.md)
-- [Council](./Council.md)
+- [Head Moderator](./Head%20Moderator.md)
 
 ### Low Rank
-- [Head Moderator](./Head%20Moderator.md)
+- [Council](./Council.md)
 - [Strategic Council](./Strategic Council.md)
 - [Executive Council](./Executive%20Council.md)
 - [Operations Director](./Operations%20Director.md)
