@@ -1,4 +1,4 @@
-# Team Council
+# Planning Council
 
 **Team:** Low Rank  
 **Primary focus:** Staff coordination and operational review
