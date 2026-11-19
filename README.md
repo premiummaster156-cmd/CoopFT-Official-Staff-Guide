@@ -10,11 +10,11 @@ Official role-specific handbook for the CoopFT staff team.
 - [Senior Moderator](./Senior%20Moderator.md)
 - [Head Moderator](./Head%20Moderator.md)
 
-### Low Rank
+### Low Rank (highest to lowest)
 - [Staff Manager](./Operations%20Director.md)
-- [Council](./Council.md)
-- [Senior Council](./Executive%20Council.md)
 - [Head Council](./Strategic%20Council.md)
+- [Senior Council](./Executive%20Council.md)
+- [Council](./Council.md)
 
 ### High Rank
 - [High Rank Lead](./High%20Chancellor.md)
