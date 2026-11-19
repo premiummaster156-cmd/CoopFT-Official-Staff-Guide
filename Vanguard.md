@@ -1,4 +1,4 @@
-# Vanguard
+# Project Lead
 
 **Team:** High Rank  
 **Primary focus:** Cross-team projects and operational improvement
@@ -7,7 +7,7 @@
 Lead important projects, align teams, and improve the systems that support CoopFT operations.
 
 ## How to work
-Define outcomes, assign agreed responsibilities, track blockers, and report progress to High Rank Supervisor.
+Define outcomes, assign agreed responsibilities, track blockers, and report progress to High Rank Lead.
 
 ## Boundaries
 Project authority is not unlimited authority over every staff member. Routine moderation remains with Mod Roles and Low Rank.
